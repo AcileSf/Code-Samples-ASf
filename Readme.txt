@@ -1,0 +1,3 @@
+TP5 is a lab completed during the class ELE8203-Robotique at Polytechnique Montreal. Parts of the MATLAB and CoppeliaSIM codes where already provided, and my teammate and I worked on completing them, but also adding new functions as needed.
+
+NITA-File Retriever App is the final version of an internal-use application I developed in C# during my current internship at NITA inc. (all copyrights reserved), and I built it (from scratch) in phases until it eventually encompassed all the features needed by the users.
