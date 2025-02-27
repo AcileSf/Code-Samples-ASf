@@ -1,0 +1,78 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="Active_Lang">FR</system:String>
+    
+    <!--#region Disclaimer Window-->
+    <system:String x:Key="DisclaimerTitleStr">Please read and accept the terms and conditions to continue :</system:String>
+    <system:String x:Key="DisclaimerTextStr">I acknowledge that this application simply gathers files from the servers but
+        it is my responsibility to verify the contents of the generated files and folders before using them.</system:String>
+    <system:String x:Key="BtnYesStr">Agree and continue</system:String>
+    <system:String x:Key="BtnNoStr">Exit</system:String>
+    <!--#endregion-->
+
+    <!--#region App Window-->
+    <!-- Package Type Radio Buttons -->
+    <system:String x:Key="Title_pckgType">Choose type of package to generate:</system:String>
+    <system:String x:Key="Title_chld">Include dependencies</system:String>
+    <system:String x:Key="PO">Purchase Order</system:String>
+    <system:String x:Key="Quote">Quote</system:String>
+
+    <!-- Package Number -->
+    <system:String x:Key="Title_pckgNbr" xml:space="preserve">Enter number of </system:String>
+    <system:String x:Key="Lbl_pckgNbr" xml:space="preserve">Number of </system:String>
+
+    <!-- Save Location -->
+    <system:String x:Key="Title_saveLoc">Enter Save Location:</system:String>
+    <system:String x:Key="Lbl_saveLoc">Path of ZIP file desired destination</system:String>
+    <system:String x:Key="btnBrowse">Browse</system:String>
+
+    <!-- Checkbox Options -->
+    <system:String x:Key="Lbl_fileType">Choose types of files to ZIP:</system:String>
+
+    <!-- Show Log -->
+    <system:String x:Key="Lbl_logs">Show logs</system:String>
+
+    <!-- Buttons -->
+    <system:String x:Key="btnReset">Reset</system:String>
+    <system:String x:Key="btnConfirm">Confirm</system:String>
+    <system:String x:Key="btnExit">Exit</system:String>
+
+
+    <!-- In-Code and message boxes -->
+    <system:String x:Key="MissNbrTitle">MISSING NUMBER</system:String>
+    <system:String x:Key="FolderNotExist">FOLDER DOES NOT EXIST</system:String>
+    <system:String x:Key="MissSlct">MISSING SELECTION</system:String>
+    <system:String x:Key="NbrNotFound">NUMBER NOT FOUND</system:String>
+    <system:String x:Key="Error">ERROR</system:String>
+    <system:String x:Key="Error_ftl">FATAL ERROR</system:String>
+    <system:String x:Key="Warning">WARNING</system:String>
+    <system:String x:Key="Success">SUCCESS</system:String>
+    <system:String x:Key="Info">INFORMATION</system:String>
+    <system:String x:Key="CnxError">CONNECTION ERROR</system:String>
+
+    <system:String x:Key="MissNbr_part1">Please enter a valid</system:String>
+    <system:String x:Key="MissNbr_part2">number!</system:String>
+    <system:String x:Key="ChooseValidLoc" xml:space="preserve">Path not valid.
+Please choose a valid Save Location.</system:String>
+    <system:String x:Key="FileTypeSlct">Please select at least one type of files.</system:String>
+    <system:String x:Key="MissingMSG">Missing files for </system:String>
+    <system:String x:Key="NoMissingMSG">No missing files for </system:String>
+    <system:String x:Key="NbrInvalid_part1">Invalid</system:String>
+    <system:String x:Key="NbrInvalid_part2">number. Try again.</system:String>
+    <system:String x:Key="AppTermination" xml:space="preserve">Application will terminate because it was unable to connect to the server.
+Resolve the issue and try launching the application again!</system:String>
+    <system:String x:Key="FileNotFound">WARNING: The following file was not found in directory</system:String>
+    <system:String x:Key="ZIPCompleted">Zipping completed for</system:String>
+    <system:String x:Key="NoFilesZIP">No files to zip. Did not create</system:String>
+    <system:String x:Key="NSItems">WARNING: This PO contains Non Stock (NS) items that were ignored in the ZIP.</system:String>
+    <system:String x:Key="TwoVersions">WARNING: Two versions of the same file have been found. The most recent will be zipped if it exists:</system:String>
+    <system:String x:Key="UnableToConnect" xml:space="preserve">Unable to connect to the database server.
+Verify your connection to the Nita network (VPN if you are outside of office).
+Try again?</system:String>
+    <system:String x:Key="LostCnx" xml:space="preserve">Lost connection to the server. Do you want to reconnect?
+Choosing "No" will terminate the application.</system:String>
+    <!--#endregion-->
+
+</ResourceDictionary>

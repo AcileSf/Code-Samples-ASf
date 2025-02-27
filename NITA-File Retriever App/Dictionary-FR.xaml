@@ -1,0 +1,78 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="Active_Lang">EN</system:String>
+    
+    <!--#region Disclaimer Window-->
+    <system:String x:Key="DisclaimerTitleStr">Veuillez lire et accepter les conditions d'utilisation pour continuer :</system:String>
+    <system:String x:Key="DisclaimerTextStr">Je reconnais que cette application ne fait que rassembler les fichiers disponibles sur les serveurs
+        mais qu'il est de ma responsabilité de vérifier le contenu des dossiers générés avant de les utiliser.</system:String>
+    <system:String x:Key="BtnYesStr">Accepter et continuer</system:String>
+    <system:String x:Key="BtnNoStr">Quitter</system:String>
+    <!--#endregion-->
+
+    <!--#region App Window-->
+    <!-- Package Type Radio Buttons -->
+    <system:String x:Key="Title_pckgType">Choisir le type de dossier à générer:</system:String>
+    <system:String x:Key="Title_chld">Inclure les documents dépendants</system:String>
+    <system:String x:Key="PO">Bon d'Achat</system:String>
+    <system:String x:Key="Quote">Soumission</system:String>
+
+    <!-- Package Number -->
+    <system:String x:Key="Title_pckgNbr" xml:space="preserve">Entrer le numéro de </system:String>
+    <system:String x:Key="Lbl_pckgNbr" xml:space="preserve">Numéro de </system:String>
+
+    <!-- Save Location -->
+    <system:String x:Key="Title_saveLoc">Choisir l'emplacement d'enregistrement:</system:String>
+    <system:String x:Key="Lbl_saveLoc">Chemin de l'emplacement souhaité du fichier ZIP</system:String>
+    <system:String x:Key="btnBrowse">Parcourir</system:String>
+
+    <!-- Checkbox Options -->
+    <system:String x:Key="Lbl_fileType">Choisir les types de fichiers à Zipper:</system:String>
+
+    <!-- Show Log -->
+    <system:String x:Key="Lbl_logs">Afficher le journal</system:String>
+
+    <!-- Buttons -->
+    <system:String x:Key="btnReset">Réinitialiser</system:String>
+    <system:String x:Key="btnConfirm">Confirmer</system:String>
+    <system:String x:Key="btnExit">Quitter</system:String>
+
+
+    <!-- In-Code and message boxes -->
+    <system:String x:Key="MissNbrTitle">NUMÉRO MANQUANT</system:String>
+    <system:String x:Key="FolderNotExist">DOSSIER INEXISTANT</system:String>
+    <system:String x:Key="MissSlct">SELECTION MANQUANTE</system:String>
+    <system:String x:Key="NbrNotFound">NUMÉRO INTROUVABLE</system:String>
+    <system:String x:Key="Error">ERREUR</system:String>
+    <system:String x:Key="Error_ftl">ERREUR FATALE</system:String>
+    <system:String x:Key="Warning">ATTENTION</system:String>
+    <system:String x:Key="Success">SUCCES</system:String>
+    <system:String x:Key="Info">INFORMATION</system:String>
+    <system:String x:Key="CnxError">ERREUR DE CONNEXION</system:String>
+
+    <system:String x:Key="MissNbr_part1">Veuillez enter un numéro de</system:String>
+    <system:String x:Key="MissNbr_part2">valide!</system:String>
+    <system:String x:Key="ChooseValidLoc" xml:space="preserve">Chemin d'accès invalide.
+Veuillez choisir un emplacement d'enregistrement valide.</system:String>
+    <system:String x:Key="FileTypeSlct">Veuillez choisir au moins un type de fichier.</system:String>
+    <system:String x:Key="MissingMSG">Fichiers manquants pour</system:String>
+    <system:String x:Key="NoMissingMSG">Pas de fichiers manquants pour</system:String>
+    <system:String x:Key="NbrInvalid_part1">Numéro de</system:String>
+    <system:String x:Key="NbrInvalid_part2">invalide. Réessayer.</system:String>
+    <system:String x:Key="AppTermination" xml:space="preserve">L'application sera fermée car la connexion au serveur n'a pas pu être établie.
+Résolvez le problème et essayez de relancer l'application !</system:String>
+    <system:String x:Key="FileNotFound">WARNING: Le fichier suivant n'a pas été trouvé dans le dossier</system:String>
+    <system:String x:Key="ZIPCompleted">Création réussie du fichier ZIP pour</system:String>
+    <system:String x:Key="NoFilesZIP">Aucun fichier à archiver. L'application n'a pas pu créer</system:String>
+    <system:String x:Key="NSItems">WARNING: Ce PO contient des éléments Non Stock (NS) qui ont été ignorés dans la création du fichier ZIP.</system:String>
+    <system:String x:Key="TwoVersions">WARNING: Deux versions du même fichier ont été trouvées. Le plus récent, s'il existe, sera inclus dans le fichier ZIP:</system:String>
+    <system:String x:Key="UnableToConnect" xml:space="preserve">Impossible de se connecter au serveur de la base de données.
+Verifiez votre connexion au réseau Nita (VPN si vous êtes en dehors du bureau).
+Réessayer?</system:String>
+    <system:String x:Key="LostCnx" xml:space="preserve">Connexion au serveur perdue. Voulez-vous vous reconnecter?
+Choisir "Non" fermera l'application.</system:String>
+    <!--#endregion-->
+
+</ResourceDictionary>

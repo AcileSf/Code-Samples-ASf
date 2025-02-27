@@ -1,0 +1,295 @@
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI_MarkupCompile.cache
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI_MarkupCompile.lref
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.exe
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.deps.json
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.runtimeconfig.json
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.pdb
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.g.resources
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.AssemblyInfoInputs.cache
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.AssemblyInfo.cs
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.csproj.CoreCompileInputs.cache
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\refint\PO-FileRetrieverUI.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.pdb
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.genruntimeconfig.cache
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\ref\PO-FileRetrieverUI.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.csproj.AssemblyReference.cache
+C:\Users\asfeir.NITA\Downloads\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileR.D4FBD79F.Up2Date
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.exe
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.deps.json
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.runtimeconfig.json
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.pdb
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.csproj.AssemblyReference.cache
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI_MarkupCompile.cache
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI_MarkupCompile.lref
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.g.resources
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.AssemblyInfoInputs.cache
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.AssemblyInfo.cs
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.csproj.CoreCompileInputs.cache
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileR.D4FBD79F.Up2Date
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\refint\PO-FileRetrieverUI.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.pdb
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.genruntimeconfig.cache
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\ref\PO-FileRetrieverUI.dll
+C:\Users\asfeir.NITA\OneDrive - Nita Inc\Bureau\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI_Content.g.cs
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.exe
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.deps.json
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.runtimeconfig.json
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.pdb
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.csproj.AssemblyReference.cache
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\App.g.cs
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI_Content.g.cs
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI_MarkupCompile.cache
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI_MarkupCompile.lref
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.g.resources
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.AssemblyInfoInputs.cache
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.AssemblyInfo.cs
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.csproj.CoreCompileInputs.cache
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileR.D4FBD79F.Up2Date
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\refint\PO-FileRetrieverUI.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.pdb
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.genruntimeconfig.cache
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\obj\Debug\net8.0-windows\ref\PO-FileRetrieverUI.dll
+D:\Temp\PO-FileRetrieverUI\PO-FileRetrieverUI\bin\Debug\net8.0-windows\N.ico
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.exe
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\N.ico
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.deps.json
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.runtimeconfig.json
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.pdb
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.csproj.AssemblyReference.cache
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\App.g.cs
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI_Content.g.cs
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI_MarkupCompile.cache
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI_MarkupCompile.lref
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.g.resources
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.AssemblyInfoInputs.cache
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.AssemblyInfo.cs
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.csproj.CoreCompileInputs.cache
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileR.D4FBD79F.Up2Date
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\refint\PO-FileRetrieverUI.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.pdb
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.genruntimeconfig.cache
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\ref\PO-FileRetrieverUI.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.exe
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\N.ico
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.deps.json
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.runtimeconfig.json
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.pdb
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.csproj.AssemblyReference.cache
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\Window1.g.cs
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\App.g.cs
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI_Content.g.cs
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI_MarkupCompile.cache
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI_MarkupCompile.lref
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\Window1.baml
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.g.resources
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.AssemblyInfoInputs.cache
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.AssemblyInfo.cs
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.csproj.CoreCompileInputs.cache
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileR.D4FBD79F.Up2Date
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\refint\PO-FileRetrieverUI.dll
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.pdb
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\PO-FileRetrieverUI.genruntimeconfig.cache
+D:\Temp\PurchasingFileRetriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\ref\PO-FileRetrieverUI.dll
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\Dictionary-EN.baml
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\Dictionary-FR.baml
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\App.baml
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\bin\Debug\net8.0-windows\PO-FileRetrieverUI.dll.config
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\AppWindow.g.cs
+C:\GitLab\purchasingfileretriever\PO-FileRetrieverUI\obj\Debug\net8.0-windows\AppWindow.baml
